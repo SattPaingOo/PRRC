@@ -1,0 +1,11 @@
+{
+    "Header" : {
+        "Home" : "Home" ,
+        "News" : "News" ,
+        "Event" : "Events",
+        "About" : "About",
+        "ContactUs" : "Contact Us",
+        "Language" : "Language",
+        "Myanmar" : "Myanmar"
+    }
+}
